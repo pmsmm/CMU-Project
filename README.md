@@ -1,6 +1,13 @@
 # CMU-Project
 Mobile and Ubiquitous Computation project made in the year of 2019 for a university course.
 
+Members That Participated in The Making Of the Project:
+- Gonçalo Marques (Github: goncasmage1);
+- Miguel Gonçalves (Github: migueldgoncalves);
+- Pedro Maria (Github: pmsmm);
+
+Final Grade: 17.9/20 
+
 In this project we would have to make from scratch an Application that would mimic to a certain extent Instagram. This project would consist in three components:
     -Server
     -Cloud API Integration
