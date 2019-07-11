@@ -180,3 +180,6 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+# Ficheiros especificos do servidor de CMU
+backups/ServerState.old
